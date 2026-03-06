@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "サマータイムラブ",
+  "base_artist": "Shiggy Jr.",
+  "createdAt": "2026-03-06T22:53:59.801988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サマータイムラブ",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/01_サマータイムラブ_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サマータイムラブ (□□□ remix)",
+      "artist": "Shiggy Jr.",
+      "has_synced": false,
+      "path": "select/02_サマータイムラブ_(□□□_remix)_Shiggy_Jr..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サマータイムラブ",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/03_サマータイムラブ_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer time love [サマータイムラブ]",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/04_Summer_time_love_[サマータイムラブ]_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サマータイムラブ",
+      "artist": "Shiggy Jr․",
+      "has_synced": true,
+      "path": "select/05_サマータイムラブ_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマータイムラブ",
+      "artist": "Shiggy Jr.",
+      "has_synced": false,
+      "path": "select/pl_01_サマータイムラブ_Shiggy_Jr..txt"
+    }
+  ]
+}
